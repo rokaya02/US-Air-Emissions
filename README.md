@@ -20,7 +20,7 @@ The subset created from the origincal CSV file narrowed the air emissions looked
 
 Along with the new subset of data, there are instructions on how to replicate this with detailed explanations. Find the python notebook here: [Notebook](https://github.com/rokaya02/US-Air-Emissions/blob/00e76178f7b7ba4369969c4e0f499bd29436eb6c/Rokaya_Air_Emissions.ipynb)
 
-To generally navigate this repository, note that everything is in folders. The original data set and new data set can both be found in the [data](https://github.com/rokaya02/US-Air-Emissions/tree/27bc03e0a0a7c8f252e3dcda7dddd5b895b418f1/data) folder. The [data visualizations](https://github.com/rokaya02/US-Air-Emissions/tree/27bc03e0a0a7c8f252e3dcda7dddd5b895b418f1/Data%20Visualizations) folder has two files containing two different data visualizations. 
+To generally navigate this repository, note that everything is in folders. The original data set and new data set can both be found in the [data](https://github.com/rokaya02/US-Air-Emissions/tree/27bc03e0a0a7c8f252e3dcda7dddd5b895b418f1/data) folder. The [data visualizations](https://github.com/rokaya02/US-Air-Emissions/tree/27bc03e0a0a7c8f252e3dcda7dddd5b895b418f1/Data%20Visualizations) folder has two files containing two different data visualizations that were created using the data subset I created through Google CoLab. 
 
 
 ## Get Started!!
