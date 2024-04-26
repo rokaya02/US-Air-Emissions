@@ -8,18 +8,18 @@ Utilizing the data subset I created, I was able to clearly visualize the carbon 
 
 **Data Visualizations** 
 
-I was able to specifically pinpoint which states and which facilities produce the most carbon dioxide into the atmosphere. The first data visualization pinpoints which states emmit the most carbon emissions. The second data visualizaiton demonstrates what industries emmit the most carbon emissions into the atmosphere.
+I was able to specifically pinpoint which states and which facilities produce the most carbon dioxide into the atmosphere. The first data visualizaiton demonstrates what industries emmit the most carbon emissions into the atmosphere. 
 
 ![snapshot-1714012017124](https://github.com/rokaya02/US-Air-Emissions/assets/156456229/86241857-aa80-446b-a7c4-57f88b0ea921)
 
-
+The second data visualization pinpoints which states emmit the most carbon emissions, if any.
 
 <img width="582" alt="data" src="https://github.com/rokaya02/US-Air-Emissions/assets/156456229/017aa42a-c848-4b0c-9571-621a0a6a3f90">
 
 
 **Why is this useful?**
 
-This could policymakers and environmental agencies to identify geographical areas and specific facilities that are major contributors to carbon emissions. This information is crucial for targeting efforts to reduce emissions effectively.
+Utilizing data and data visualizations could assist policymakers and environmental agencies to identify geographical areas and specific facilities that are major contributors to carbon emissions. This information is crucial for targeting efforts to reduce emissions effectively.
 Setting Priorities: With clear visualization and data analysis, decision-makers can prioritize their efforts and resources towards the states or facilities with the highest emissions. This can lead to more efficient allocation of funds and implementation of emission reduction strategies.
 
 ## Contents
