@@ -11,7 +11,7 @@ Utilizing the data subset I created, I was able to clearly visualize the carbon 
 This could policymakers and environmental agencies to identify geographical areas and specific facilities that are major contributors to carbon emissions. This information is crucial for targeting efforts to reduce emissions effectively.
 Setting Priorities: With clear visualization and data analysis, decision-makers can prioritize their efforts and resources towards the states or facilities with the highest emissions. This can lead to more efficient allocation of funds and implementation of emission reduction strategies.
 
-##Contents
+## Contents
 The original CSV file is included, containing raw data provided by thh EPA. The original dataset encompasses a wide range of locations in the US and different emission levels. Access the data set here: [Original Air Emission Data Set](https://github.com/rokaya02/US-Air-Emissions/blob/00e76178f7b7ba4369969c4e0f499bd29436eb6c/data/original%20data/air_emissions1.csv)
 
 
