@@ -4,7 +4,15 @@
 This is a comprehensive repository containing carbon emissions data for the United States. The data used was compiled by the Environmental Protection Agency, providing valuable insights into the nation's carbon emissions trends over this period. This repository serves as a vital resource for researchers, policymakers, and environmental enthusiasts seeking to understand and analyze the impact of carbon emissions on the environment and public health.
 
 ## Findings
-Utilizing the data subset I created, I was able to clearly visualize the carbon emissions emitted in the United States. In addition to this, I was able to specifically pinpoint which states and which facilities produce the most carbon dioxide into the atmosphere. 
+Utilizing the data subset I created, I was able to clearly visualize the carbon emissions emitted in the United States. 
+
+**Data Visualizations** 
+I was able to specifically pinpoint which states and which facilities produce the most carbon dioxide into the atmosphere. The first data visualizaiton demonstrates what industries emmit the most carbon emissions into the atmosphere. The second 
+
+<img width="582" alt="data" src="https://github.com/rokaya02/US-Air-Emissions/assets/156456229/017aa42a-c848-4b0c-9571-621a0a6a3f90">
+
+![snapshot-1714012017124](https://github.com/rokaya02/US-Air-Emissions/assets/156456229/86241857-aa80-446b-a7c4-57f88b0ea921)
+
 
 **Why is this useful?**
 
